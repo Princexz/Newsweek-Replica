@@ -41,4 +41,4 @@ Give a ⭐️ if you like this project!
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
 
-Copyright 2022 Prince Solomon
+Copyright 2022 <a href="https://princexz.github.io/me"> Prince Solomon </a>
