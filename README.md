@@ -14,11 +14,11 @@ A replica of [NewsWeek](https://www.newsweek.com/)'s home page. The website is b
 - Git and Github
 - Bootstrap
 
-## Authors
+## Author
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@AshakaE](https://github.com/princexz)
+- GitHub: [@Princexz](https://github.com/princexz)
 
 ## Live Demo
 
@@ -41,4 +41,4 @@ Give a ⭐️ if you like this project!
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
 
-Copyright 2020 Ashaka Egerega & Uduak John
+Copyright 2022 Prince Solomon
